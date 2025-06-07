@@ -1,0 +1,9 @@
+2025-06-01 22:05:17,006 - INFO - Succesfully read the YAML file
+2025-06-01 22:06:39,238 - INFO - Succesfully read the YAML file
+2025-06-01 22:06:39,238 - INFO - Data Ingestion Started....
+2025-06-01 22:06:39,238 - INFO - Starting Data Ingestion Process...
+2025-06-01 22:06:40,048 - INFO - Downloading smaller files, anime and anime_with_synopsis
+2025-06-01 22:06:40,426 - INFO - Downloading smaller files, anime and anime_with_synopsis
+2025-06-01 22:07:46,691 - INFO - Large file detected only downloading 5M rows
+2025-06-01 22:07:46,706 - INFO - Data Ingestion Completed...
+2025-06-01 22:07:46,706 - INFO - Data Ingestion Completed.
