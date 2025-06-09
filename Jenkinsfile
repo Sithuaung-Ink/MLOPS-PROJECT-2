@@ -66,7 +66,7 @@ pipeline {
         }
         stage('Deploying to Kubernetes'){
             steps{
-                withCredentials([file(credentialsId:'gcp-key-mlops' , variable: 'GOOGLE_APPLICATION_CREDENTIALS' )]){
+                withCredentials([file(credentialsId:'gcp-key-mlops2' , variable: 'GOOGLE_APPLICATION_CREDENTIALS' )]){
                     script{
                         echo 'Deploying to Kubernetes'
                         sh '''
