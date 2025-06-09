@@ -1,0 +1,6 @@
+[core]
+    remote = myrecommender
+['remote "myremote"']
+    url = gs://my-dvc-bucket-25/
+['remote "myrecommender"']
+    url = gs://my-dvc-bucket-25/
